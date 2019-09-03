@@ -1,0 +1,9 @@
+https://www.c-sharpcorner.com/UploadFile/4d9083/create-and-implement-3-tier-architecture-in-Asp-Net/	
+	
+	https://github.com/vasanthika/DemoTask
+	Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\WIN8\source\repos\ThreeExample\ThreeExample\App_Data\Database1.mdf;Integrated Security=True
+	
+	https://github.com/vasanthika/taskdeploy.git
+	C:\Users\WIN8\source\repos\ThreeExample
+	https://www.youtube.com/watch?v=jRgLSMlp28U
+	https://www.youtube.com/watch?v=MOZMw5_fBFA&t=859s
